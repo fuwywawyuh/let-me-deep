@@ -1,0 +1,49 @@
+## Interface: 100207, 110000, 110002
+## Version: 1.55
+## Title: Liquid Reminders
+## Author: Naemesis
+## IconTexture: Interface\AddOns\LiquidReminders\Media\Textures\logo_secondary.blp
+## SavedVariables: LiquidRemindersSaved
+## OptionalDeps: ViragDevTool, MRT, WeakAuras, Liquid, Pescorus
+
+Modernize.lua
+GlobalSettings.lua
+Utility.lua
+TextFormatter.lua
+TimelineData.lua
+
+# Timeline data
+TimelineData/Debug/Shriekwing.lua
+
+TimelineData/NerubarPalace/Ulgrax.lua
+TimelineData/NerubarPalace/BloodboundHorror.lua
+TimelineData/NerubarPalace/Sikran.lua
+TimelineData/NerubarPalace/Rashanan.lua
+TimelineData/NerubarPalace/BroodtwisterOvinax.lua
+TimelineData/NerubarPalace/Kyveza.lua
+TimelineData/NerubarPalace/SilkenCourt.lua
+TimelineData/NerubarPalace/QueenAnsurek.lua
+
+# Interface
+Interface/Widgets/Button.lua
+Interface/Widgets/Slider.lua
+Interface/Widgets/CheckButton.lua
+Interface/Widgets/Window.lua
+Interface/Widgets/Dropdown.lua
+Interface/Widgets/EditBox.lua
+Interface/Widgets/SpellIcon.lua
+Interface/Widgets/ColorPicker.lua
+
+Interface/ConfirmWindow.lua
+Interface/Timeline.lua
+Interface/ReminderConfig.lua
+Interface/Interface.lua
+
+# Display
+Display/NoteInterpreter.lua
+Display/Anchor.lua
+Display/TextReminder.lua
+Display/SpellReminder.lua
+Display/Display.lua
+
+LiquidReminders.lua
